@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nirali Diyora
 
-I'm a passionate **Full Stack Developer** with 3+ years of experience, specializing in:
+I'm a passionate **Full Stack Developer**, specializing in:
 
 - ⚙️ **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 📱 **React Native** for cross-platform mobile apps
@@ -9,6 +9,15 @@ I'm a passionate **Full Stack Developer** with 3+ years of experience, specializ
 - ⚡ **Next.js**, **Firebase**, and third-party integrations like Stripe, Twilio, and Mapbox
 
 ---
+
+
+## 🛠️ Tech I Work With
+
+**Frontend:** React.js, Next.js, React Native, PWA, Redux  
+**Backend:** Node.js, Express.js, Firebase, GraphQL, Socket.io  
+**Databases:** MongoDB, MySQL, PostgreSQL  
+**Tools & Services:** Stripe, Twilio, Sentry, AWS, Mapbox, SendGrid, Flutterwave, Netlify, Git
+
 
 ## 🚀 What I Do
 
