@@ -38,7 +38,7 @@ I'm a passionate **Full Stack Developer**, specializing in:
 
 I'm always open to collaborating on interesting projects or remote opportunities.
 
-- LinkedIn: [linkedin.com/in/niralidiyora](https://linkedin.com/in/niralidiyora)
+- LinkedIn: [linkedin.com/in/niralidiyora](https://www.linkedin.com/in/nirali-diyora)
 - Email: niralidiyora3151@gmail.com
 
 ---
